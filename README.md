@@ -134,6 +134,7 @@ export default connect()(App);
 
 ## LoadingBarMiddleware
 
+教學: http://huli.logdown.com/posts/294284-javascript-redux-middleware-details-tutorial
 ``` JS
 import { showLoading, hideLoading } from './actions'
 
